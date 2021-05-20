@@ -1,0 +1,13 @@
+# Dependencies
+node_modules
+
+# Build directory
+.next
+
+# Editors
+.idea
+.vscode
+*.iml
+.env.development
+
+yarn-error.log
